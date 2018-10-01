@@ -39,14 +39,5 @@
 Issue Trackers Version Control (Git) Plain Text Markup (Markdown, reStructuredText, Asciidoc) Code Reviews Automated Tests This means following the same workflows as development teams, and being integrated in the product team. It enables a culture where writers and developers both feel ownership of documentation, and work together to make it as good as possible.</description>
     </item>
     
-    <item>
-      <title>My First Post</title>
-      <link>https://kenpaul.github.io/kenpaul.github.io/posts/my-first-post/</link>
-      <pubDate>Mon, 01 Oct 2018 08:11:30 -0400</pubDate>
-      
-      <guid>https://kenpaul.github.io/kenpaul.github.io/posts/my-first-post/</guid>
-      <description>This is a test of my first post to the Hugo blog site</description>
-    </item>
-    
   </channel>
 </rss>
