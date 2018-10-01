@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KP Blog Site</title>
-    <link>http://example.org/</link>
+    <link>https://kenpaul.github.io/kenpaul.github.io/</link>
     <description>Recent content on KP Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Oct 2018 08:20:25 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kenpaul.github.io/kenpaul.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VMConAWS</title>
-      <link>http://example.org/post/vmconaws/</link>
+      <link>https://kenpaul.github.io/kenpaul.github.io/post/vmconaws/</link>
       <pubDate>Mon, 01 Oct 2018 08:20:25 -0400</pubDate>
       
-      <guid>http://example.org/post/vmconaws/</guid>
+      <guid>https://kenpaul.github.io/kenpaul.github.io/post/vmconaws/</guid>
       <description>VMware Cloud on AWS brings VMware’s enterprise-class SDDC software to the AWS Cloud with optimized access to AWS services. Powered by VMware Cloud Foundation, VMware Cloud on AWS integrates our compute, storage and network virtualization products (VMware vSphere, VMware vSAN and VMware NSX) along with VMware vCenter management, optimized to run on dedicated, elastic, bare-metal AWS infrastructure.</description>
     </item>
     
     <item>
       <title>DocsAsCode</title>
-      <link>http://example.org/post/docsascode/</link>
+      <link>https://kenpaul.github.io/kenpaul.github.io/post/docsascode/</link>
       <pubDate>Mon, 01 Oct 2018 08:20:13 -0400</pubDate>
       
-      <guid>http://example.org/post/docsascode/</guid>
+      <guid>https://kenpaul.github.io/kenpaul.github.io/post/docsascode/</guid>
       <description>Documentation as Code (Docs as Code) refers to a philosophy that you should be writing documentation with the same tools as code:
 Issue Trackers Version Control (Git) Plain Text Markup (Markdown, reStructuredText, Asciidoc) Code Reviews Automated Tests This means following the same workflows as development teams, and being integrated in the product team. It enables a culture where writers and developers both feel ownership of documentation, and work together to make it as good as possible.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://kenpaul.github.io/kenpaul.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 01 Oct 2018 08:11:30 -0400</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://kenpaul.github.io/kenpaul.github.io/posts/my-first-post/</guid>
       <description>This is a test of my first post to the Hugo blog site</description>
     </item>
     
