@@ -6,10 +6,19 @@
     <description>Recent content on KP Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 08:20:25 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 13:36:14 -0400</lastBuildDate>
     
 	<atom:link href="https://kenpaul.github.io/kenpaul.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HyperConverged</title>
+      <link>https://kenpaul.github.io/kenpaul.github.io/post/hyperconverged/</link>
+      <pubDate>Mon, 01 Oct 2018 13:36:14 -0400</pubDate>
+      
+      <guid>https://kenpaul.github.io/kenpaul.github.io/post/hyperconverged/</guid>
+      <description>OBJECTIVE To compete and maintain relevance in todays business climate IT needs to simplify and accelerate the delivery of infrastructure platforms. The way that we procure, assemble, and manage these systems therefore directly affects that goal. Modern compute, storage, and network platforms continue to advance in performance and capability and consequently increase in complexity. The ability to obtain, train, and retain staff resources to efficiently integrate and maintain this composite IT structure is becoming harder to sustain.</description>
+    </item>
     
     <item>
       <title>VMConAWS</title>
